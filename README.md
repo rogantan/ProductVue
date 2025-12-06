@@ -1,24 +1,30 @@
 # ProductVue
 
-This template should help get you started developing with Vue 3 in Vite.
+Интерфейс для отображения каталога товаров, с возможностью фильтрации, сортировки и поиска.
 
-## Recommended IDE Setup
+## Пример работы приложения
+![запус](scrins/image1.png)
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Проверка поиска
+![Поиск](scrins/image2.png)
 
-## Recommended Browser Setup
+Проверка фильтрации
+![Фильтрация](scrins/image3.png)
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+Проверка сортировок
+![Возрастание](scrins/image4.png)
 
-## Customize configuration
+![Убывание](scrins/image5.png)
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Проверка сброса фильтров
+![Сброс фильтров](scrins/image6.png)
 
+Проверка покупок
+![Покупки](scrins/image7.png)
+
+Проверка localStorage
+Перезагрузка...
+![Перезагрузка](scrins/image8.png)
 ## Project Setup
 
 ```sh
